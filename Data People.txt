@@ -1,0 +1,7 @@
+1,215002,Dang hoang viet,male,20,0972017749,hv16@gmail.comm,hcm,
+1,215004,Nhu ngoc,female,19,092727821,nhungoc@gmail.com,long an,
+2,123456855,hanh,male,20,0939292102,hanh@gmail.com,hcm,
+2,5622334,hoangviet,male,20,08772829292,hv@gmail.com,hcm,
+2,235426633,hoang viet,male,19,0972839392,hv@gmail.com,hcm,
+2,1235663,hoang viet,male,19,09388222,hv@gmail.com,hcm,
+2,216533446,hoang viet,male,20,09283832,hoangviet@gmail.com,hcm,

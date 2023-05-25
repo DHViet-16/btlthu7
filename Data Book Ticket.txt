@@ -1,0 +1,6 @@
+1235663,41,One way,Hcm,Vinh,27/05/2023,,1,Trader,789000,
+1235663,18467,One way,Hcn,Ha Noi,27/05/2023,,1,Common,564200,
+215004,6334,One way,Hcm,Da Nang,28/06/2023,,1,Trader,562300,
+1235663,26500,One way,Hcm,Da Lat,2/05/2023,,1,Trader,256000,
+5622334,19169,One way,Hcm,Ca Mau,28/06/2023,,1,Common,546000,
+5622334,15724,One way,Hcm,Ha Long Bay,29/05/2023,,1,Trader,568000,
